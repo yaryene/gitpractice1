@@ -1,1 +1,3 @@
 hello
+greetings vary by country.
+In Ethiopia, we say "Selam newey"
