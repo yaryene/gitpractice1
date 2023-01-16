@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text two.
+=======
+Text one.
+>>>>>>> 458b3d040ae84a69e542cd4641e96f73173ca44e
